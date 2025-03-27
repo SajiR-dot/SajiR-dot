@@ -4,12 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SajiR-dot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajiR-dot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajiR-dot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/b63a609cf065b8ed1baeff577727aa51/tumblr_prb7h7yoeA1vzt1imo2_540.gif"  />
 
 ###
 
@@ -46,10 +42,20 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/SajiR-dot/count.svg?"  />
+<h2 align="left">Why do programmers prefer dark mode? Because light attracts bugs!!</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<img align="right" height="154" src="https://64.media.tumblr.com/b63a609cf065b8ed1baeff577727aa51/tumblr_prb7h7yoeA1vzt1imo2_540.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SajiR-dot/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SajiR-dot/SajiR-dot/output/snake.svg" alt="Snake animation" />
 
 ###
