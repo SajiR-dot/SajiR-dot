@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SajiR-dot/SajiR-dot/output/snake.svg" alt="Snake animation" />
-
-###
