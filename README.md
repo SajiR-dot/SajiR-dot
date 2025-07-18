@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sajeeth Rajendran 
-  
-  I'm a Data analyst</h2>
+<h2 align="left">Hi 👋! My name is Sajeeth Rajendran  I'm a Data analyst</h2>
 
 ###
 
@@ -48,5 +46,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/SajiR-dot/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
