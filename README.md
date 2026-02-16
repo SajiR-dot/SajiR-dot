@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sajeeth Rajendran  I'm a Data analyst</h2>
+<h2 align="left">Hi 👋! My name is Sajeeth Rajendran  I'm an aspiring AI engineer for earth and ocean systems</h2>
 
 ###
 
