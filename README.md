@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="your-banner-image-link.png" alt="Futuristic AI Engineer Banner" width="100%" style="border-radius: 10px;">
+  <img src="Gemini_Generated_Image_edkkqaedkkqaedkk (1).png" alt="Futuristic AI Engineer Banner" width="100%" style="border-radius: 10px;">
 
   <h1>Hi, I'm Sajeeth R. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
@@ -65,13 +65,12 @@ Currently open to **challenging Data Science roles** and preparing for rigorous 
 
 ---
 
-## 🚀 Featured Architectures
+## 🌍 Featured Architectures: Climate Tech
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Deep Vision Ocean Monitor](#)** | Automated detection and classification of marine life and ecosystem health using state-of-the-art CNNs. | `Python` `PyTorch` `OpenCV` |
-| **[Advanced Predictive Analytics](#)** | High-dimensional statistical modeling pipeline optimized for massive temporal datasets. | `Python` `Scikit-Learn` `SQL` |
-| **[Algorithmic Optimization Engine](#)** | Custom implementation of advanced DSA principles from scratch to solve NP-hard routing constraints. | `Python` `Mathematics` |
+| Project | Description | Core Architecture & Stack |
+|---------|-------------|---------------------------|
+| **[Marine Species Fish Classifier](#)** | Engineered a robust computer vision pipeline for fine-grained classification of marine life, optimizing for high precision to support ocean ecosystem monitoring. | `PyTorch` `OpenCV` `CNNs` |
+| **[Deforestation Detection](#)** | Designed a deep learning architecture to analyze high-resolution satellite imagery, enabling automated segmentation and quantification of deforestation patterns. | `TensorFlow` `Spatial Analysis` `Python` |
 
 ---
 
