@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="Gemini_Generated_Image_edkkqaedkkqaedkk (1).png" alt="Business Intelligence Analyst Banner" width="100%" style="border-radius: 10px;">
 
 <h1>Hi, I'm Sajeeth R. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
