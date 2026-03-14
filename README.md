@@ -1,88 +1,104 @@
 <div align="center">
-  
-  <img src="Gemini_Generated_Image_edkkqaedkkqaedkk (1).png" alt="Futuristic AI Engineer Banner" width="100%" style="border-radius: 10px;">
 
-  <h1>Hi, I'm Sajeeth R. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<img src="Gemini_Generated_Image_edkkqaedkkqaedkk (1).png" alt="Business Intelligence Analyst Banner" width="100%" style="border-radius: 10px;">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+%26+Deep+Learning+Engineer;Data+Scientist+%7C+Computer+Vision;Architecting+Earth+%26+Ocean+AI+Systems;Exploring+Quantum+Computing" alt="Typing SVG" />
-  </a>
+<h1>Hi, I'm Sajeeth R. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-  <p><b>Designing intelligent systems from first principles. Transforming data into actionable, world-class solutions.</b></p>
-  
-  <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-View_Work-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
-  </p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Business+Intelligence+Analyst;Data+Analytics+%7C+Business+Insights;Power+BI+%7C+SQL+%7C+Data+Visualization;Transforming+Data+into+Strategic+Decisions" alt="Typing SVG" />
+</a>
+
+<p><b>Turning raw data into actionable insights that drive strategic business decisions.</b></p>
+
+<p>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-8A2BE2?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 Engineering Mindset & Focus
-I am an AI Engineer and Data Scientist driven by deep mathematical intuition and rigorous analytical thinking. I specialize in building robust machine learning architectures and computer vision pipelines. Beyond standard implementations, I focus on the "why" and "how" of algorithms, continuously pushing towards state-of-the-art methodologies. 
+## 📊 Business Intelligence Focus
 
-Currently open to **challenging Data Science roles** and preparing for rigorous **PhD research**.
+I am a **Business Intelligence Analyst** passionate about transforming complex datasets into clear, actionable insights.
+My expertise lies in building **interactive dashboards, performing data analysis, and supporting strategic decision-making through data storytelling**.
+
+I focus on understanding **business problems first**, then applying analytics, visualization, and statistical reasoning to solve them.
+
+Currently seeking opportunities in **Business Intelligence, Data Analytics, and Decision Science roles.**
 
 ---
 
-## ⚡ Tech Stack & Arsenal
+## ⚡ Tech Stack & Tools
 
-**Core Languages & Logic**
+### Programming & Query Languages
+
 <br>
+
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-**AI, Deep Learning & Vision**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+### Business Intelligence & Visualization
 
-**Data Science & Analysis**
 <br>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### Data Analysis
+
+<br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
 
 ---
 
-## 📊 Metrics & Activity
+## 📈 Analytics Projects
+
+| Project                             | Description                                                                                                                                    | Tools                             |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **Hotel Booking Analysis**          | Performed exploratory analysis on hotel booking datasets to identify cancellation trends, seasonal demand patterns, and revenue opportunities. | `Python` `Pandas` `Visualization` |
+| **HR Employee Attrition Dashboard** | Built an interactive BI dashboard to identify factors influencing employee attrition and workforce trends.                                     | `Power BI` `DAX` `Data Modeling`  |
+| **Sales Performance Dashboard**     | Developed a business intelligence dashboard tracking sales KPIs, revenue growth, and regional performance.                                     | `Power BI` `SQL`                  |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="48%" />
+
 </div>
+
+---
+
+## 🚀 Professional Development
+
+Continuously improving analytical and business intelligence capabilities.
+
+* 📊 Advanced **Power BI Dashboard Development**
+* 🧠 **DAX optimization & data modeling**
+* 🗄️ **SQL query performance & analytics**
+* 📈 **Business KPI design and reporting**
+* 🤖 Applying **Machine Learning insights into business analytics**
+
+---
+
+## 🌍 Career Vision
+
+To become a **high-impact Business Intelligence professional** who helps organizations make better strategic decisions through advanced analytics, dashboards, and data storytelling.
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%" alt="Profile Details">
+<i>"Without data, you're just another person with an opinion."</i>
 </div>
 
----
-
-## 🌍 Featured Architectures: Climate Tech
-
-| Project | Description | Core Architecture & Stack |
-|---------|-------------|---------------------------|
-| **[Marine Species Fish Classifier](#)** | Engineered a robust computer vision pipeline for fine-grained classification of marine life, optimizing for high precision to support ocean ecosystem monitoring. | `PyTorch` `OpenCV` `CNNs` |
-| **[Deforestation Detection](#)** | Designed a deep learning architecture to analyze high-resolution satellite imagery, enabling automated segmentation and quantification of deforestation patterns. | `TensorFlow` `Spatial Analysis` `Python` |
-
----
-
-## 🛤️ Evolution Roadmap
-Always expanding the boundary of what's computationally possible:
-- 🔭 **Current Deep Dive:** Advanced Deep Learning architectures and generative models.
-- 🌱 **Learning Focus:** Mastering advanced Data Structures and Algorithms for elite problem-solving.
-- 🔬 **Research Interests:** Intersections of AI with sustainability, marine systems, and the foundational mathematics of Quantum Computing.
-- 🌍 **Global Communication:** Elevating technical communication to an elite international standard (Targeting IELTS Band 9).
-
-<br>
-
-<div align="center">
-  <i>"Rigorous thinking over rote memorization. Systems over syntax."</i>
-</div>
