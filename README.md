@@ -11,7 +11,7 @@
 <p><b>Turning raw data into actionable insights that drive strategic business decisions.</b></p>
 
 <p>
-<a href="mailto:your.sajeethrajendran@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sajeethrajendran@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sajeeth-rajendran"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-8A2BE2?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
